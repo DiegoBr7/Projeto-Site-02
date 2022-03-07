@@ -1,0 +1,314 @@
+body{
+    max-width: 1140px;
+    margin:0 auto ;
+}
+
+header{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+}
+select{
+    margin: 30px auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    left: 400px;
+    bottom:100px;
+    width: 120px;
+    height: 40px;
+    color: white;
+    background: rgba(0, 0, 0, 0.4);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border: none;
+}
+img{
+    position: relative;
+    left: 20px;
+    top: 15px;
+}
+.img2{
+    position: relative;
+    display: flex;
+    color: white;
+    font-size: 15px;
+}
+.h{
+    position: relative;
+    left: 35px;
+    top: 15px;
+}
+.img3{
+    position: relative;
+    left: 600px;
+    width: 500px;
+    height: 500px;
+}
+.men{
+    font-size: 70px;
+    position: relative;
+    bottom: 500px;
+    left: 70px;
+}
+.bt01{
+    position: relative;
+    bottom: 470px;
+    left: 100px;
+    color: white;
+    background-color: black;
+    width:400px;
+    height:80px;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.nav1{
+    position: relative;
+    top: 700px;
+    height: 200px;
+    background-color: tan;
+}
+.mn1 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.mn2 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.mn3 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.nav1{
+    display: flex;
+
+}
+h2{
+    width: 100%;
+    font-size: 15px;
+    position: relative;
+    left: 50px;
+    text-align: center;
+}
+p{
+    width: 120px;
+    font-size: 10px;
+    position: relative;
+    left: 100px;
+    top: 65px;
+    
+}
+.store{
+    width: 250px;
+}
+.fts{
+    position: relative;
+    top: 800px;
+    color: black;
+    display: flex;
+}
+.feat{
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    top: 770px;
+}
+.salto{
+    position: relative;
+    top: 850px;
+    display: flex;
+}
+.salto1{
+    position: relative;
+    top: 850px;
+    
+    display: flex;
+    
+}
+.salto2{
+ position: relative;
+ left: 350px;
+ top: 650px;
+}
+.salto3{
+   position: relative;
+   left: 800px;
+   top: 650px;
+
+}
+.salto4{
+    position: relative;
+    left: 350px;
+    top: 650px;
+ 
+ }
+ .hr001{
+     position: relative;
+     top: 750px;
+ }
+ .fn01{
+     position: relative;
+     top: 800px;
+  width: 100%;
+  height: 740px;
+  background-color: tan;
+ }
+ .hrx{
+     display: flex;
+ }
+ .imgc{
+     width: 200px;
+     height: 400px;
+     position: relative;
+     right: 30px;
+    }
+    .imgb{
+        width: 200px;
+        height: 400px;
+        display: inline;
+    }
+    .cor{
+        position: relative;
+        top: 100px;
+        right: 250px;
+        max-width: 480px;
+        width: 100%;
+        margin: 0 auto;
+        height: 550px;
+        background-color: white;
+    }
+    .l1{
+        width: 150px;
+        height: 200px;
+        font-size: 15px;
+        position:absolute;
+        left: 275px;
+        top: 150px;      
+    }
+    .l2{
+        width: 150px;
+        height: 200px;
+        font-size: 15px;
+        position:absolute;
+        left: 275px;
+        top: 50px;     
+    }
+    .black{
+        position: relative;
+        right: 85px;
+        top: 100px;
+        width: 250px;
+        height: 50px;
+        background-color: black;
+        color: white;
+    }
+
+    .cor2{
+        position: relative;
+        bottom: 450px;
+        left: 250px;
+        max-width: 480px;
+        width: 100%;
+        margin: 0 auto;
+        height: 550px;
+        background-color: white;
+    }
+    .l3{
+        width: 150px;
+        height: 200px;
+        font-size: 15px;
+        position:absolute;
+        left: 275px;
+        top: 150px;      
+    }
+    .l4{
+        width: 150px;
+        height: 200px;
+        font-size: 15px;
+        position:absolute;
+        left: 275px;
+        top: 50px;     
+    }
+    .black2{
+        position: relative;
+        right: 85px;
+        top: 100px;
+        width: 250px;
+        height: 50px;
+        background-color: black;
+        color: white;
+    }
+    footer{
+        width: 100%;
+        height: 450px;
+        background-color: black;
+        margin-top: 700px;
+        color: white;
+       
+        }
+        
+        .team{
+              font-size: 20px;
+              position: relative;
+              right: 10px;
+        }
+        .team2{   
+             font-size: 20px;
+             position: relative;
+              left: 10px;
+        }
+        .team3{      
+            font-size: 20px;
+            position: relative;
+            left: 20px;
+        }
+        .den{
+            margin-top: 70px;
+           margin-left: 200px;
+            width: 50px;
+            height: 50px;
+            background-color: black;
+            color: white;
+            font-size: 25px;
+        }
+        .den2{
+            margin-left: 80px ;         
+            display: flex;
+        }
+        .logo{
+            position: relative;
+            top: 100px;
+            left: 50px;
+        }
+        .store{
+            margin-left: 650px;
+            position: relative;
+            bottom: 162px;
+            font-size: 25px;
+        }
+        .den3{
+            position: relative;
+            bottom: 150px;
+            font-size: 18px;
+            margin-left: 680px;
+           display: flex;
+           }
+           .street , .street2 , .street {
+               margin-left: 10px;
+               margin-right: 10px;
+           }
+           .linha{
+               position: relative;
+               bottom: 50px;
+           }
